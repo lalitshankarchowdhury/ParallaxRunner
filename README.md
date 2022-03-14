@@ -1,2 +1,2 @@
 # ParallaxRunner
-A simple game inspired by Chrome Dino game.
+A simple game inspired by the Chrome Dino game.
